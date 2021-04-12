@@ -1,0 +1,11 @@
+{
+  "description": "DescriptionText1",
+  "categories": [
+    "Cat1"
+  ],
+  "restrict": true,
+  "pid": "doi:10.11587/NVWE8Y",
+  "filename": "filename_01.txt",
+  "label": "Replication File",
+  "directoryLabel": "data/subdir1"
+}

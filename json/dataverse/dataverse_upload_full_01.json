@@ -1,15 +1,15 @@
 {
-  "name": "Scientific Research",
-  "alias": "science",
+  "name": "DataverseName1",
+  "alias": "dataverse_alias_1",
   "dataverseContacts": [
     {
-      "contactEmail": "pi@example.edu"
+      "contactEmail": "ContactEmail1@mailinator.com"
     },
     {
-      "contactEmail": "student@example.edu"
+      "contactEmail": "ContactEmail2@mailinator.com"
     }
   ],
-  "affiliation": "Scientific Research University",
-  "description": "We do all the science.",
-  "dataverseType": "LABORATORY"
+  "affiliation": "DataverseAffiliation",
+  "description": "DescriptionText1",
+  "dataverseType": "UNCATEGORIZED"
 }
