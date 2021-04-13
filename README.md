@@ -62,13 +62,13 @@ Applications:
 
 * Data type: User
 * Schema: Dataverse Upload Default
-* Description: 
+* Description: na
 
 ## CONTRIBUTING
 
-### Key-value naming
+### Metadata attribute naming
 
-Align metadata naming to `json/dataset/dataset_upload_default_full_01.json`.
+Align metadata attribute naming to `json/dataset/dataset_upload_default_full_01.json`.
 
 ### File naming
 
