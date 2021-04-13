@@ -10,7 +10,61 @@ Applications:
 * [pyDataverse](https://github.com/gdcc/pyDataverse)
 * [AUSSDA tests](https://github.com/AUSSDA/aussda_tests)
 
-## Standards
+## TESTDATA
+
+### JSON
+
+#### Dataverse Collections
+
+`dataverse_upload_min_01.json`
+
+* Data type: Dataverse collection metadata
+* Schema: Dataverse Upload Default
+* Description: Minimum
+
+`dataverse_upload_full_01.json`
+
+* Data type: Dataverse collection metadata
+* Schema: Dataverse Upload Default
+* Description: Full
+
+#### Datasets
+
+**dataset_upload_default_min_01.json**
+
+* Data type: Dataset metadata
+* Schema: Dataverse Upload Default
+* Description: Minimum
+
+**dataset_upload_default_full_01.json**
+
+* Data type: Dataset metadata
+* Schema: Dataverse Upload Default
+* Description: Full
+
+#### Datafiles
+
+**datafile_upload_full_01.json**
+
+* Data type: Datafile metadata
+* Schema: Dataverse Upload Default
+* Description: Full
+
+**datafile_upload_min_01.json**
+
+* Data type: Datafile metadata
+* Schema: Dataverse Upload Default
+* Description: min
+
+#### User
+
+**user_01.json**
+
+* Data type: User
+* Schema: Dataverse Upload Default
+* Description: 
+
+## CONTRIBUTING
 
 ### Key-value naming
 
