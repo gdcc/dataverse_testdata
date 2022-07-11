@@ -6,6 +6,10 @@ Applications:
 
 * [dataverse_tests](https://github.com/gdcc/dataverse_tests)
 
+Funded by:
+
+<a href="https://www.sshopencloud.eu/"><img src="docs/img/sshoc-logo.png" alt="SSHOC Logo" width="200"/></a><a href="https://www.aussda.at/"><img src="docs/img/aussda-logo.jpg" alt="AUSSDA Logo" width="200"/></a>
+
 ## TEST DATA
 
 ### JSON
