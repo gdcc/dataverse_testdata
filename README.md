@@ -1,16 +1,12 @@
-# Dataverse testdata
+# Dataverse Test Data
 
-Dataverse testdata are a set of public testdata related for Dataverse.
-It should collect and share testdata for the testing of Dataverse and external tools which use Dataverse data structures.
-
-Testdata has been tested on a Dataverse 4.18.1 installation with pyDataverse 0.3.1.
+Dataverse Test Data is a collection of high quality metadata - for Dataverse testing purposes mostly.
 
 Applications:
 
-* [pyDataverse](https://github.com/gdcc/pyDataverse)
-* [AUSSDA tests](https://github.com/AUSSDA/aussda_tests)
+* [dataverse_tests](https://github.com/gdcc/dataverse_tests)
 
-## TESTDATA
+## TEST DATA
 
 ### JSON
 
@@ -74,19 +70,19 @@ Align metadata attribute naming to `json/dataset/dataset_upload_default_full_01.
 
 **Dataverse**
 
-dataverse_DIRECTION_FORMAT_NN.json
+dataverse_TYPE_FORMAT_NN.json
 
 `dataverse_upload_full_01.json`
 
 **Datasets**
 
-dataset_DIRECTION_SCHEMA_FORMAT_NN.json
+dataset_TYPE_SCHEMA_FORMAT_NN.json
 
 `dataset_upload_default_full_01.json`
 
 **Datafiles**
 
-datafile_DIRECTION_FORMAT_NN.json
+datafile_TYPE_FORMAT_NN.json
 
 `datafile_upload_full_01.json`
 
